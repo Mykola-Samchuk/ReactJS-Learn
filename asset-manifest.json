@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ReactJS-Learn/static/css/main.51538831.chunk.css",
+    "main.css": "/ReactJS-Learn/static/css/main.63045fe3.chunk.css",
     "main.js": "/ReactJS-Learn/static/js/main.51ae896c.chunk.js",
     "main.js.map": "/ReactJS-Learn/static/js/main.51ae896c.chunk.js.map",
     "runtime-main.js": "/ReactJS-Learn/static/js/runtime-main.744a1881.js",
@@ -10,13 +10,13 @@
     "static/js/3.dd157172.chunk.js": "/ReactJS-Learn/static/js/3.dd157172.chunk.js",
     "static/js/3.dd157172.chunk.js.map": "/ReactJS-Learn/static/js/3.dd157172.chunk.js.map",
     "index.html": "/ReactJS-Learn/index.html",
-    "static/css/main.51538831.chunk.css.map": "/ReactJS-Learn/static/css/main.51538831.chunk.css.map",
+    "static/css/main.63045fe3.chunk.css.map": "/ReactJS-Learn/static/css/main.63045fe3.chunk.css.map",
     "static/js/2.0776a14c.chunk.js.LICENSE.txt": "/ReactJS-Learn/static/js/2.0776a14c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.744a1881.js",
     "static/js/2.0776a14c.chunk.js",
-    "static/css/main.51538831.chunk.css",
+    "static/css/main.63045fe3.chunk.css",
     "static/js/main.51ae896c.chunk.js"
   ]
 }

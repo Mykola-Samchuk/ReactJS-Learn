@@ -4,9 +4,7 @@ body {
 a {
   color: rgb(255, 255, 255);
 }
-a:hover{
-    opacity: 50%;
-}
+
 .cmponent {
   width: 100%;
 }
